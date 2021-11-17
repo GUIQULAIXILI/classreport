@@ -1,0 +1,68 @@
+body{
+    /* background-image: url("wallhaven-x8z9yo_2560x1080.png");
+    background-repeat: repeat;
+    background-position:  center top;
+    background-attachment: fixed;可简写 */
+    background: #333  url("img/wallhaven-e7ek7k_2560x1080.png") repeat center top fixed;
+    color: #fff;
+    /* background: rgb(0,0,0,0.3) 背景色半透明*/
+}
+.nav1{
+    width: 100px;
+    height: 50px;
+    display: inline-block;
+    text-decoration: none;
+    line-height: 50px;
+    
+    text-align: center;
+    color:red(53, 20, 151);
+    background-color: skyblue;
+}
+.div5{
+    margin-top: 50px;
+    font-weight: lighter;
+    font-size: 30px;
+    color:white;
+    display:inline-block ;
+}
+title{
+    color: tomato;
+    font-size: 70px;
+}
+
+.work{
+    margin-left: 200px;
+}
+
+a:visited{
+    color: blue;
+    text-decoration: underline;
+}
+a:hover{
+    color: cyan;}
+p{
+    text-indent: 2em;
+    text-align: center;
+    color: springgreen;
+    font-size: 20px;
+}
+
+.kongge{
+    height: 100px;
+}
+.div6{
+    margin-top: 100px;}
+.div7{
+    
+    display:inline-block ;
+    margin-top: 100px;
+}
+.biaoqian{
+    font-size: 45px;
+    color: turquoise;
+}
+.hello{
+    display: inline-block;
+    width:190px ;
+    
+}
