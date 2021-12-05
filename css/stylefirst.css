@@ -22,8 +22,9 @@ ul {
     width: 480px;
     height: 70px;
     left: 50%;
-    top: 50%;
+    top: 75%;
     transform: translate(-50%,-50%);
+
 }
 li div {
     padding: 2em 0 5 2em;
@@ -45,6 +46,13 @@ li:hover div{
     background: rgb(0, 204, 255);
 }
 .dragon{
+    font-size: 100px;
+    color: #000;
+    text-align: center;
+    margin-top: 100px;
+}
+.dragon1{
+    margin-top: 1000px;
     font-size: 100px;
     color: #000;
     text-align: center;
